@@ -28,6 +28,8 @@
 
 🎮 数码硬件发烧友，爱好单机网游，RPG 换装暖暖风景党
 
+🚪 个人博客 [https://chenshihao.github.io](https://chenshihao.github.io)
+
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ChenShihao&show_icons=true&theme=onedark)]()
 
 ![](https://komarev.com/ghpvc/?username=ChenShihao)
