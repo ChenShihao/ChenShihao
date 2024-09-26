@@ -16,7 +16,7 @@
 
 🏫 CUFE 本科 Gentleman 一枚
 
-🤟 通吃型前端选手，拥抱 Angular/React/Node.js/RxJS/...
+🤟 通吃型前端选手，拥抱 Vue/React/Node.js/Angular/RxJS/...
 
 🤣 TS 类型 🤸‍♂️ 爱好者，拥抱 FP 开发
 
